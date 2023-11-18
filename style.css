@@ -283,7 +283,7 @@ footer li {
     font-size: 55%;
   }
   .simply-countdown > .simply-section {
-    padding: 40px;
+    padding: 35px; /*default 45*/
     margin: 3px;
   }
 }
