@@ -18,8 +18,9 @@ body {
   width: 100%;
   height: 100%;
   background-image: url(img/bg-worship.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   z-index: -1;
   filter: grayscale();
 }
