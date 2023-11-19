@@ -72,7 +72,7 @@ body {
 }
 
 .mynavbar .offcanvas {
-  height: auto;
+  height: 50vh;
   width: auto;
 }
 
