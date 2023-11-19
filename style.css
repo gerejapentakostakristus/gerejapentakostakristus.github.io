@@ -1,7 +1,7 @@
 :root {
   --pink: #f14e95;
   --bg: #0a0a0a;
-  --bggray: #696969;
+  --bggray: #696969; /* Penambahan warna background */
   --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
 
@@ -132,7 +132,7 @@ body {
 }
 
 .info {
-  background-color: var(--bggray); /*var(--bg);*/
+  background-color: var(--bggray);
   color: white;
   padding-top: 10rem;
   padding-bottom: 8rem;
